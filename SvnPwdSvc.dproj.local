@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2011-11-23 11:43:23.006.pas,C:\Documents and Settings\pcplayer\My Documents\RAD Studio\Projects\Unit2.pas=D:\Pro\修改SVN密码的服务\USvnpwdSvc.pas</Transaction>
+    <Transaction>2011-11-23 11:43:23.022.dfm,C:\Documents and Settings\pcplayer\My Documents\RAD Studio\Projects\Unit2.dfm=D:\Pro\修改SVN密码的服务\USvnpwdSvc.dfm</Transaction>
+    <Transaction>2011-11-23 11:43:30.928.dproj,C:\Documents and Settings\pcplayer\My Documents\RAD Studio\Projects\Project1.dproj=D:\Pro\修改SVN密码的服务\SvnPwdSvc.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
